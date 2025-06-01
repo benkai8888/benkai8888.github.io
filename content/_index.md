@@ -8,8 +8,6 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
       image:
         filename: bkGroup1b.jpg
       text: |
