@@ -11,11 +11,11 @@ sections:
         Wowchemy
         Research Group
       image:
-        filename: welcome.jpg
+        filename: bkGroup1b.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        We are a theory group who study the effect strong electromagnetic fields have on elementary particle physics processes. 
   
   - block: collection
     content:
