@@ -1,5 +1,5 @@
 ---
-title: Anthony Mercuri Baron joins group
+title: Entanglement and pair production in intense electromagnetic fields
 date: 2025-04-08
 image:
   focal_point: 'top'
