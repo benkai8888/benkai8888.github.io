@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Ben King
+title: Di Liu
 
 # Full name (for SEO)
-first_name: Ben
-last_name: King
+first_name: Di
+last_name: Liu
 
 # Username (this should match the folder name)
 authors:
-  - bk
+  - dliu
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Associate Professor of Theoretical Physics
+role: PDRA
 
 # Organizations/Affiliations
 organizations:

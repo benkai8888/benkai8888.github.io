@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Ben King
+title: Tom Heinzl
 
 # Full name (for SEO)
-first_name: Ben
-last_name: King
+first_name: Tom
+last_name: Heinzl
 
 # Username (this should match the folder name)
 authors:
-  - bk
+  - theinzl
 
 # Is this the primary user of the site?
 superuser: false
@@ -67,8 +67,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
-  - Visitors
+  - Principal Investigators
 ---
 
 BK is here the text...

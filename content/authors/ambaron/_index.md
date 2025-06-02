@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Ben King
+title: Anthony Mercuri-Baron
 
 # Full name (for SEO)
-first_name: Ben
-last_name: King
+first_name: Anthony
+last_name: Mercuri-Baron
 
 # Username (this should match the folder name)
 authors:
-  - bk
+  - ambaron
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Associate Professor of Theoretical Physics
+role: PDRA
 
 # Organizations/Affiliations
 organizations:
@@ -68,7 +68,6 @@ email: ''
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Researchers
-  - Visitors
 ---
 
 BK is here the text...
