@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PDRA
+role: Postdoctoral Research Assistant
 
 # Organizations/Affiliations
 organizations:
