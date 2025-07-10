@@ -39,15 +39,3 @@ sections:
           captcha: false
     design:
       columns: '1'
-
-  - block: markdown
-    content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
----

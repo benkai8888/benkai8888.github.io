@@ -67,6 +67,6 @@ user_groups:
   - Principal Investigators
 ---
 
-Ben's research studies how charged particles and light behave in intense electromagnetic fields such as one would find in the most intense laser pulses or in the very strong fields between atomic planes in oriented crystals or in magnetised neutron stars. This research area is sometimes called `nonlinear' or `strong-field' QED (quantum electrodynamics) and the main tool to study it is quantum field theory.
+Ben's research studies how charged particles and light behave in intense electromagnetic fields such as one would find in the most intense laser pulses or in the very strong fields between atomic planes in oriented crystals or in magnetised neutron stars. This research area is sometimes called 'nonlinear' or 'strong-field' QED (quantum electrodynamics) and the main tool to study it is quantum field theory.
 
 Ben is the final-year tutor for Maths and Stats BSc Programmes at Plymouth. His lecturing is centred around applied mathematics and theoretical physics. Courses taught by Ben include: cosmology, classical mechanics, ordinary differential equations, vector calculus and engineering mathematics. Ben also supervises BSc dissertations in Theoretical Physics and MSc dissertations in Data Science.
