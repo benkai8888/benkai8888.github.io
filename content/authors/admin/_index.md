@@ -22,24 +22,21 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include AI and the phenomenology of strong elecctromagnetic fields
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Theoretical Physics
+  - Strong Electromagnetic Fields
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Dr. rer. nat. (summa cum laude)
+      institution: University of Heidelberg
+      year: 2010
+    - course: MSci in Physics with Theoretical Physics (1st class honours)
+      institution: Imperial College London
+      year: 2006
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -70,4 +67,6 @@ user_groups:
   - Principal Investigators
 ---
 
-BK is here the text...
+Ben's research studies how charged particles and light behave in intense electromagnetic fields such as one would find in the most intense laser pulses or in the very strong fields between atomic planes in oriented crystals or in magnetised neutron stars. This research area is sometimes called `nonlinear' or `strong-field' QED (quantum electrodynamics) and the main tool to study it is quantum field theory.
+
+Ben is the final-year tutor for Maths and Stats BSc Programmes at Plymouth. His lecturing is centred around applied mathematics and theoretical physics. Courses taught by Ben include: cosmology, classical mechanics, ordinary differential equations, vector calculus and engineering mathematics. Ben also supervises BSc dissertations in Theoretical Physics and MSc dissertations in Data Science.

@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Associate Professor of Theoretical Physics
+role: Emeritus Associate Professor of Theoretical Physics
 
 # Organizations/Affiliations
 organizations:
