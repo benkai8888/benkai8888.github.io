@@ -48,13 +48,13 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:b.king@plymouth.ac.uk'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/bkingspeaking
+    link: 'mailto:di.liu@plymouth.ac.uk'
+#  - icon: twitter
+#    icon_pack: fab
+#    link: https://twitter.com/bkingspeaking
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=SUUoIZQAAAAJ&hl=en
+    link: https://scholar.google.co.uk/citations?hl=en&user=Y6LnZG8AAAAJ
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,4 +70,4 @@ user_groups:
   - Researchers
 ---
 
-BK is here the text...
+Here is the text about Di...
