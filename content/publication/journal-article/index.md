@@ -33,10 +33,10 @@ tags:
 featured: false
 
 links:
-# - name: ""
-url: https://journals.aps.org/prd/abstract/10.1103/PhysRevD.111.056018
+- name: Custom Link
+  url: https://journals.aps.org/prd/abstract/10.1103/PhysRevD.111.056018
 url_pdf: https://link.aps.org/pdf/10.1103/PhysRevD.111.056018
-url_code: 
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
