@@ -30,7 +30,7 @@ interests:
   - Strong-Field QED
   - Laser-Matter Interactions at the Microscopic Level
 
-education and career:
+education:
   courses:
     - course: Senior Staff
       institution: University of Plymouth
@@ -52,7 +52,6 @@ education and career:
 social:
   - icon: inspire
     icon_pack: custom
-    name: inspire
     link: https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=find%20a%20Heinzl%2C%20t
 #  - icon: twitter
 #    icon_pack: fab
