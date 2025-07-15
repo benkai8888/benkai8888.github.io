@@ -34,7 +34,7 @@ education:
   courses:
     - course: Postdoctoral Research Associate
       institution: University of Plymouth
-      year: 2024 —
+      year: 2024 -
     - course: Visiting Scientist
       institution: The European Organization for Nuclear Research (CERN)
       year: 2022-2024  

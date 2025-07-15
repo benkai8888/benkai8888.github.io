@@ -22,7 +22,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include AI and the phenomenology of strong elecctromagnetic fields
+#bio: My research interests include AI and the phenomenology of strong elecctromagnetic fields
 
 interests:
   - Artificial Intelligence
