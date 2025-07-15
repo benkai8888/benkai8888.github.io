@@ -1,15 +1,15 @@
 ---
 title: "Coherent enhancement of QED cross sections in electromagnetic backgrounds"
-# authors:
-# - theinzl
-# - admin
-# - dliu
-# author_notes:
-# - "Equal contribution"
-# - "Equal contribution"
-# - "Equal contribution"
-# date: "2025-03-01T00:00:00Z"
-# doi: "10.1103/PhysRevD.111.056018"
+authors:
+- theinzl
+- admin
+- dliu
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
+- "Equal contribution"
+date: "2025-03-01T00:00:00Z"
+doi: "10.1103/PhysRevD.111.056018"
 
 # # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
