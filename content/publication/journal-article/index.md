@@ -34,8 +34,8 @@ featured: false
 
 # links:
 # - name: ""
-url: 'https://journals.aps.org/prd/abstract/10.1103/PhysRevD.111.056018'
-url_pdf: 'https://link.aps.org/pdf/10.1103/PhysRevD.111.056018'
+url: https://journals.aps.org/prd/abstract/10.1103/PhysRevD.111.056018
+url_pdf: https://link.aps.org/pdf/10.1103/PhysRevD.111.056018
 url_code: 
 url_dataset: ''
 url_poster: ''
@@ -44,12 +44,12 @@ url_slides: ''
 url_source: ''
 url_video: ''
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: 'Cross-section scaling for different channels of photon-photon scattering'
-  focal_point: ""
-  preview_only: false
+# # Featured image
+# # To use, add an image named `featured.jpg/png` to your page's folder. 
+# image:
+#   caption: 'Cross-section scaling for different channels of photon-photon scattering'
+#   focal_point: ""
+#   preview_only: false
 
 # # Associated Projects (optional).
 # #   Associate this publication with one or more of your projects.
