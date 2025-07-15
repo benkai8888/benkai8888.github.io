@@ -50,7 +50,7 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: inspire
+  - icon: inspiref
     icon_pack: custom
     link: https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=find%20a%20Heinzl%2C%20t
 #  - icon: twitter
