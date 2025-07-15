@@ -25,36 +25,41 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Quantum Field Theory
+  - Particle Physics in the Presence of External Fields
+  - Strong-Field QED
+  - Laser-Matter Interactions at the Microscopic Level
 
-education:
+education and career:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Senior Staff
+      institution: University of Plymouth
+      year: 2005-2025
+    - course: Postdoc
+      institution: University of Jena
+      year: 1998-2004
+    - course: Habilitation in Theoretical Physics
+      institution: University of Jena
+      year: 1998
+    - course: PhD in Theoretical Physics
+      institution: University of Regensburg
+      year: 1992
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:thomas.heinzl@plymouth.ac.uk'
+  - icon: inspire
+    icon_pack: custom
+    name: inspire
+    link: https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=find%20a%20Heinzl%2C%20t
 #  - icon: twitter
 #    icon_pack: fab
 #    link: https://twitter.com/bkingspeaking
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?hl=en&user=aCqZWdUAAAAJ
+    link: https://scholar.google.com/citations?hl=en&user=aCqZWdUAAAAJ&view_op=list_works&sortby=pubdate
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,4 +75,3 @@ user_groups:
   - Principal Investigators
 ---
 
-BK is here the text...
