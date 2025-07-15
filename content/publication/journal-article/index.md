@@ -32,7 +32,7 @@ tags:
 - Source Themes
 featured: false
 
-# links:
+links:
 # - name: ""
 url: https://journals.aps.org/prd/abstract/10.1103/PhysRevD.111.056018
 url_pdf: https://link.aps.org/pdf/10.1103/PhysRevD.111.056018
