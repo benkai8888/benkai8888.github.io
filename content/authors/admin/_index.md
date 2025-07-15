@@ -8,7 +8,7 @@ last_name: King
 
 # Username (this should match the folder name)
 authors:
-  - bk
+  - admin
 
 # Is this the primary user of the site?
 superuser: true

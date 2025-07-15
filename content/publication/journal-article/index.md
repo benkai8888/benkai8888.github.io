@@ -2,7 +2,7 @@
 title: "Coherent enhancement of QED cross sections in electromagnetic backgrounds"
 authors:
 - theinzl
-- bk
+- admin
 - dliu
 author_notes:
 - "Equal contribution"
