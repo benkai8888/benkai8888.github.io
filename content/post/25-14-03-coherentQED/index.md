@@ -9,9 +9,11 @@ image:
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2507.16891
+- name: journal
+  url: https://journals.aps.org/prd/abstract/10.1103/PhysRevD.111.056018  
 ---
 
-Recent work published in Phys. Rev. D. explores the ideas.
+Recent work published in Phys. Rev. D. explores the ideas that when a QED processes that involves photons occurs in a laser, it can be enhanced by an interaction with the laser taking the place of the interaction with photons. 
 
 <!--more-->
 
