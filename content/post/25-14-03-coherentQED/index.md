@@ -1,5 +1,5 @@
 ---
-title: Coherent enhancement of QED cross sections in electromagnetic backgrounds
+title: Coherent enhancement of QED cross sections
 date: 2025-14-03
 authors:
 - theinzl
