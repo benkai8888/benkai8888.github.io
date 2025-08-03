@@ -1,7 +1,8 @@
 ---
-title: Vacuum muon decay and interaction with laser pulses
-date: 2025-07-25
+title: Coherent enhancement of QED cross sections in electromagnetic backgrounds
+date: 2025-03-14
 authors:
+- theinzl
 - admin
 - dliu
 image:
