@@ -1,5 +1,8 @@
 ---
 title: Anthony Mercuri Baron joins group
+authors:
+- admin
+- ambaron
 date: 2025-03-03
 ---
 
